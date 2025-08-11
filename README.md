@@ -57,5 +57,12 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/JoaoNevez/JoaoNevez/output/snake.gif" alt="Snake animation" />
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/intl-pt/track/3G6p8lXQ1qjQOzvZA1KB6A?si=50ae2f8311994978" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Ouça%20Death%20Curse%20no%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Ouça Death Curse no Spotify" height="35" />
+  </a>
+</div>
 
 ###
