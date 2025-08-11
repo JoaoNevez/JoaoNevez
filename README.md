@@ -1,4 +1,4 @@
-<h2 align="left"># 💫 Sobre Mim:<br>👋 Olá! Meu nome é *João Neves* e sou *Engenheiro de Software* do Brasil 🇧🇷.  <br>💻 Apaixonado por tecnologia, programação e por resolver problemas através de código.  <br>🚀 Sempre aprendendo novas tecnologias e buscando melhorar minhas habilidades.</h2>
+<h2 align="left"># 💫 Sobre Mim:<br>👋 Olá! Meu nome é João Neves e sou Engenheiro de Software do Brasil 🇧🇷.  <br>💻 Apaixonado por tecnologia, programação e por resolver problemas através de código.  <br>🚀 Sempre aprendendo novas tecnologias e buscando melhorar minhas habilidades.</h2>
 
 ###
 
@@ -56,6 +56,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/JoaoNevez/JoaoNevez/output/snake.gif" alt="Snake animation" />
+![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
 
 ###
