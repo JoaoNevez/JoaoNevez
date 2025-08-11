@@ -20,6 +20,7 @@ jobs:
         with:
           github_user_name: JoaoNevez
           outputs: dist/github-contribution-grid-snake.svg
+          colors: "#0366d6"
 
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v3.1.0
