@@ -54,6 +54,6 @@
 
 ###
 
-![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
+<img src="https://raw.githubusercontent.com/JoaoNevez/JoaoNevez/output/snake.svg" alt="Snake animation" />
 
 ###
