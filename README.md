@@ -54,28 +54,6 @@
 
 ###
 
-name: Gerar Jogo da Cobrinha
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"  # Executa a cada 12 horas
-  workflow_dispatch:
-
-jobs:
-  build:
-    name: Gerar animação
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Sutil/snk@v01.00.02
-        id: snake-gif
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          svg_out_path: dist/github-contribution-grid-snake.svg
-          snake_color: 'blue'  # Altere para a cor desejada
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
-        with:
-          target_branch: output
-          build_dir: dist
-
+<img src="https://raw.githubusercontent.com/JoaoNevez/JoaoNevez/output/snake.svg" alt="Snake animation" />
 
 ###
