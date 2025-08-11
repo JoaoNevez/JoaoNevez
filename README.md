@@ -58,6 +58,7 @@
 
 <br clear="both">
 
-![Snake animation](https://github.com/JoaoNevez/JoaoNevez/blob/output/github-contribution-grid-snake.svg)
+ <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JoaoNevez/JoaoNevez/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
