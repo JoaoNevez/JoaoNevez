@@ -1,4 +1,4 @@
-<h2 align="left"> 💫 Oi, eu sou o João Neves 👋
+ 💫 Oi, eu sou o João Neves 👋
 📖 Tecnólogo em Gestão da Tecnologia da Informação
 💻 Bacharelado em Engenharia de Software
 
