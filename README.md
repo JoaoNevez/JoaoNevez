@@ -60,20 +60,6 @@
 <br clear="both">
 
 <div align="center">
-  <!-- Pac-Man animado em SVG -->
-  <svg width="200" height="50" viewBox="0 0 200 50">
-    <circle cx="25" cy="25" r="20" fill="yellow">
-      <animate attributeName="stroke-dasharray" from="0,126" to="63,63" dur="0.5s" repeatCount="indefinite" />
-    </circle>
-    <!-- Pontos que Pac-Man vai “comer” -->
-    <circle cx="80" cy="25" r="5" fill="white">
-      <animate attributeName="cx" from="80" to="0" dur="2s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="110" cy="25" r="5" fill="white">
-      <animate attributeName="cx" from="110" to="0" dur="2.5s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="140" cy="25" r="5" fill="white">
-      <animate attributeName="cx" from="140" to="0" dur="3s" repeatCount="indefinite"/>
-    </circle>
-  </svg>
+  <!-- Pac-Man GIF -->
+  <img src="https://media.giphy.com/media/26gsspf0Cj6dR7r3S/giphy.gif" alt="Pac-Man animation" width="500" />
 </div>
