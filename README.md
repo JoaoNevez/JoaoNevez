@@ -58,6 +58,13 @@
 
 <br clear="both">
 
-![Snake animation](https://github.com/JoaoNevez/JoaoNevez/blob/output/github-contribution-grid-snake.svg)
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="600" alt="Pac-Man animation" />
+</div>
+
 
 ###
