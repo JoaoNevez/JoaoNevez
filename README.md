@@ -1,4 +1,4 @@
-<h2 align="left"> <br> Oi, eu sou o João Neves 👋  .  <br>💻 Bacharelado em Engenharia de Software    .  <br>📖 Tecnólogo em Gestão da Tecnologia da Informação .</h2>
+<h2 align="left"> 💫 Sobre Mim:<br>👋 Olá! Meu nome é João Neves e sou Engenheiro de Software do Brasil 🇧🇷.  <br>💻 Apaixonado por tecnologia, programação e por resolver problemas através de código.  <br>🚀 Sempre aprendendo novas tecnologias e buscando melhorar minhas habilidades.</h2>
 
 ###
 
