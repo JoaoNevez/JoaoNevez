@@ -63,7 +63,8 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="600" alt="Pac-Man animation" />
+  [<img src="https://raw.githubusercontent.com/JoaoNevez/JoaoNevez/output/snake.gif" alt="Snake animation" />](
+
 </div>
 
 
