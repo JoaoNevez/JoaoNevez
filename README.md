@@ -52,9 +52,5 @@
 <br clear="both">
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoaoNevez/JoaoNevez/main/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoaoNevez/JoaoNevez/main/output/pacman-contribution-graph.svg">
-    <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/JoaoNevez/JoaoNevez/main/output/pacman-contribution-graph.svg">
-  </picture>
+  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" alt="Pac-Man Contribution Graph" />
 </div>
