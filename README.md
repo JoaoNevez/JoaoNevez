@@ -1,12 +1,17 @@
-<h2 align="left">💫 Sobre Mim:</h2>
-👋 Olá! Meu nome é João Neves e sou **Engenheiro de Software** do Brasil 🇧🇷.<br>
-💻 Apaixonado por tecnologia, programação e por resolver problemas através de código.<br>
-🚀 Sempre aprendendo novas tecnologias e buscando melhorar minhas habilidades.
+<h2 align="left"># 💫 Sobre Mim:<br>👋 Olá! Meu nome é João Neves e sou **Engenheiro de Software** do Brasil 🇧🇷.  <br>💻 Apaixonado por tecnologia, programação e por resolver problemas através de código.  <br>🚀 Sempre aprendendo novas tecnologias e buscando melhorar minhas habilidades.</h2>
+
+###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoaoNevez&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoNevez&layout=compact&theme=dracula&langs_count=5" height="150" alt="Top Languages" />
-</div>
+  <img src="https://github-readme-stats.vercel.app/api?username=JoaoNevez&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <<img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoNevez&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&cache_seconds=60" height="150" alt="languages graph" />
+
+
+###
+
+<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWZsbnN3OTZoc3Z5bDNveGF3b2M0YjhxaWR0c2dmemJpNTh2dHY3ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif"  />
+
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -25,13 +30,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
 </div>
 
+###
 
 <div align="left">
   <a href="https://www.youtube.com/@Namilinux" target="_blank">
@@ -54,12 +55,16 @@
   </a>
 </div>
 
+###
+
 <br clear="both">
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoaoNevez/JoaoNevez/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoaoNevez/JoaoNevez/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JoaoNevez/JoaoNevez/output/pacman-contribution-graph.svg">
-  </picture>
-</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoaoNevez/JoaoNevez/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoaoNevez/JoaoNevez/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JoaoNevez/JoaoNevez/output/pacman-contribution-graph.svg">
+</picture>
+
+###
