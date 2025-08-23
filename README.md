@@ -9,7 +9,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?
   https://github-readme-stats.vercel.app/api?username=JoaoNevez&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false&cache_seconds=86400&v=2
-alt="Top Languages" />
+
 </div>
 
 ---
