@@ -7,8 +7,9 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoaoNevez&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false&cache_seconds=86400" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoNevez&layout=compact&langs_count=5&theme=dracula&hide_border=false&cache_seconds=86400" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?
+  https://github-readme-stats.vercel.app/api?username=JoaoNevez&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false&cache_seconds=86400&v=2
+alt="Top Languages" />
 </div>
 
 ---
