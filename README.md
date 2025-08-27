@@ -1,8 +1,10 @@
-# Olá, eu sou João Neves  <img align="right" height="50" src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" />  
+👋 Olá, eu sou João Neves
 
-🎓 Formado em **Bacharelado em Engenharia de Software** 
+🎓 Bacharelado em Engenharia de Software
+🎓 Tecnólogo em Gestão da Tecnologia da Informação
 
-🎓 Formado em **Tecnólogo em Gestão da Tecnologia da Informação**
+💻 Apaixonado por tecnologia, inovação e boas práticas de desenvolvimento de software.
+📚 Sempre em busca de novos aprendizados e desafios na área de TI.
 
 ###
 
