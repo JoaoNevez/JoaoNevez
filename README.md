@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou João Neves 
 
-🎓 Formado em **Tecnólogo em Engenharia de Software** 
+🎓 Formado em **Bacharelado em Engenharia de Software** 
 
-🎓 Formado em **Bacharelado em Gestão da Tecnologia da Informação**
+🎓 Formado em **Tecnólogo em Gestão da Tecnologia da Informação**
 
 ###
 
