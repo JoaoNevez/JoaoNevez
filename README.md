@@ -1,4 +1,4 @@
-# Olá, eu sou João Neves  <img align="right" height="25" src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" />  
+# Olá, eu sou João Neves  <img align="right" height="50" src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" />  
 
 🎓 Formado em **Bacharelado em Engenharia de Software** 
 
