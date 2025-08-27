@@ -1,9 +1,11 @@
 👋 Olá, eu sou João Neves
 
 🎓 Bacharelado em Engenharia de Software
+
 🎓 Tecnólogo em Gestão da Tecnologia da Informação
 
 💻 Apaixonado por tecnologia, inovação e boas práticas de desenvolvimento de software.
+
 📚 Sempre em busca de novos aprendizados e desafios na área de TI.
 
 ###
