@@ -1,6 +1,7 @@
-<h2 align="left"><br>👋 Olá! Meu nome é João Neves e sou Engenheiro de Software do Brasil 🇧🇷.  
-<br>💻 Apaixonado por tecnologia, programação e por resolver problemas através de código.  
-<br>🚀 Sempre aprendendo novas tecnologias e buscando melhorar minhas habilidades.</h2>
+# 👋 Olá, eu sou João Neves 
+
+🎓 Formado em **Tecnólogo em Gestão da Tecnologia da Informação**  
+🎓 Formado em **Bacharelado em Engenharia de Software**  
 
 ###
 
