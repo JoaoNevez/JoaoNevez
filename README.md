@@ -79,3 +79,4 @@
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JoaoNevez/JoaoNevez/output/pacman-contribution-graph.svg" />
   </picture>
 </div>
+\
