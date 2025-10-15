@@ -1,4 +1,4 @@
-👋 Olá, eu sou João Neveszzzzzz
+👋 Olá, eu sou João Neves
 
 🎓 Bacharelado em Engenharia de Software
 
