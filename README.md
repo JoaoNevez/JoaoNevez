@@ -1,14 +1,9 @@
 👋 Olá! Eu sou João Neves
 
-Sou apaixonado por tecnologia e por resolver problemas através de código. Tenho foco em desenvolvimento front-end, criando aplicações funcionais, organizadas e com boa experiência de uso.
+Desenvolvedor com foco em front-end, apaixonado por tecnologia e resolução de problemas através de código. Busco criar aplicações funcionais, organizadas e com boa experiência de uso. Estou em constante aprendizado e evolução na área de desenvolvimento de software.
 
-Estou sempre aprendendo novas tecnologias e buscando evoluir como desenvolvedor, tanto tecnicamente quanto profissionalmente.
+🎓 Formação em Engenharia de Software e Gestão em Tecnologia da Informação.
 
-🎓 Formação Acadêmica
-
-Engenharia de Software
-
-Gestão em Tecnologia da Informação
 ###
 
 <div align="center">
