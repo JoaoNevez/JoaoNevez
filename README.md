@@ -1,5 +1,10 @@
-<h2 align="left"># 💫 Sobre Mim:<br>👋 Olá! Meu nome é João Neves e sou **Desenvolvedor Júnior** do Brasil 🇧🇷.  <br>💻 Apaixonado por tecnologia, programação e por resolver problemas através de código.  <br>🚀 Sempre aprendendo novas tecnologias e buscando melhorar minhas habilidades.</h2>
+# 👋 Olá, eu sou João Neves
 
+💻 Desenvolvedor Júnior  
+🇧🇷 Brasil  
+
+Sou apaixonado por tecnologia, programação e por resolver problemas através de código.  
+Atualmente estou focado em aprender e evoluir em desenvolvimento de software.
 ###
 
 <div align="center">
