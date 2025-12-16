@@ -9,7 +9,10 @@
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/Cdiyoqr2s6AAAAAj/cat-chase.gif"  />
+<video align="right" height="150" autoplay loop muted>
+  <source src="./assets/cat-chase.mp4" type="video/mp4">
+  Seu navegador não suporta o vídeo.
+</video>
 
 ###
 
