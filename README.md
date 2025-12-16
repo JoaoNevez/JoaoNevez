@@ -1,4 +1,4 @@
-<h2 align="left"># 💫 Sobre Mim:<br>👋 Olá! Meu nome é João Neves e sou **Desenvolvedor Júnior** do Brasil 🇧🇷.  <br>💻 Apaixonado por tecnologia, programação e por resolver problemas através de código.  <br>🚀 Sempre aprendendo novas tecnologias e buscando melhorar minhas habilidades.</h2>
+<h2 align="left"># 💫 Sobre Mim:<br>👋 Olá! Meu nome é João Neves e sou *Desenvolvedor Júnior* do Brasil 🇧🇷.  <br>💻 Apaixonado por tecnologia, programação e por resolver problemas através de código.  <br>🚀 Sempre aprendendo novas tecnologias e buscando melhorar minhas habilidades.</h2>
 
 ###
 
@@ -9,13 +9,7 @@
 
 ###
 
-<video align="right" height="150" autoplay loop muted>
-  <source src="./assets/ca
-
-https://github.com/user-attachments/assets/d90fbe81-c0c5-453d-b9e9-50e6c7b02771
-
-t-chase.mp4" type="video/mp4">
-</video>
+<img align="right" height="150" src="https://media.tenor.com/Cdiyoqr2s6AAAAAj/cat-chase.gif"  />
 
 ###
 
@@ -54,23 +48,4 @@ t-chase.mp4" type="video/mp4">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   <a href="mailto:joaoneves.work@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://br.linkedin.com/in/joaonevez" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoaoNevez/JoaoNevez/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoaoNevez/JoaoNevez/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JoaoNevez/JoaoNevez/output/pacman-contribution-graph.svg">
-</picture>
-
-###
+    <img src="https://img.shie
