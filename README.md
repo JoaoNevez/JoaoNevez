@@ -11,7 +11,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/Cdiyoqr2s6AAAAAi/cat-chase.gif"  />
+<img align="right" height="200" src="https://media.tenor.com/Cdiyoqr2s6AAAAAi/cat-chase.gif"  />
 
 ###
 
