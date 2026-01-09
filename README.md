@@ -1,13 +1,20 @@
-👋 Olá! Sou João Neves, desenvolvedor com foco em front-end, apaixonado por tecnologia e resolução de problemas através de código.
-🎓 Formado em Engenharia de Software e Gestão em Tecnologia da Informação.
+<h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=JoaoNevez&theme=dracula" height="150" />
-  <img src="https://github-profile-trophy.vercel.app/?username=JoaoNevez&theme=dracula&row=1&margin-w=8" height="150" />
-</div>
+<p align="left">My name is João Neves and I'm a Software Engineer, from Brasil</p>
 
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+
+###
+
+<h2 align="left">I code with</h2>
 ###
 
 <img align="right" height="200" src="https://media.tenor.com/Cdiyoqr2s6AAAAAi/cat-chase.gif"  />
