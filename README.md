@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning english<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/8dc57e6d-b685-480d-9271-83784cbdbd4d" />
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning english<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/8dc57e6d-b685-480d-9271-83784cbdbd4d" />
 <br>🎯 Goals: live in a cold place❄ and meet Mount Fuji⛩️ ...<br>🎲 Fun fact: Sadomasochistic gaming<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/129fb142-aedf-415b-b56b-88a48643bb2a" />
  ...</p>
 
