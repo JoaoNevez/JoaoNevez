@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">My name is João Neves and I'm a Software Engineer, from Brasil</p>
+<p align="left">My name is João Neves and I'm a Software Engineer, from Brasil<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/9fb2a0a4-5406-4d68-b03a-d452514da6b1" />
+</p>
 
 ###
 
