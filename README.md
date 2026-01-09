@@ -1,4 +1,5 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋 What's up?<![akselav-cat](https://github.com/user-attachments/assets/2ad9f8a2-39d8-42b8-b34a-386dd4cdbc87)
+/h1>
 
 ###
 
