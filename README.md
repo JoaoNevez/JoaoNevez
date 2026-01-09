@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning english<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/8dc57e6d-b685-480d-9271-83784cbdbd4d" />
+<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning english<img width="128" height="9" alt="image" src="https://github.com/user-attachments/assets/8dc57e6d-b685-480d-9271-83784cbdbd4d" />
 <br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
 ###
