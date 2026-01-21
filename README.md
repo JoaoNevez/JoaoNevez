@@ -9,7 +9,7 @@
 ###
 
 <p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning english<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/8dc57e6d-b685-480d-9271-83784cbdbd4d"  /> and Docker🐳
-<br>🎯 Goals: live in a cold place❄ and meet Mount Fuji⛩️ <br>🎲 Fun fact: Sadomasochistic gaming<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/7e235f28-2baa-433c-9065-3f6241c56d47" 
+<br>🎯 Goals: live in a cold place❄ and meet Mount Fuji⛩️ <br>🎲 Fun fact: Sadomasochistic gaming
 " />
   
 <div align="center">
@@ -23,7 +23,7 @@
 
 ###
 
-<img align="right" height="200" src="https://media.tenor.com/Cdiyoqr2s6AAAAAi/cat-chase.gif"  />
+<img align="right" height="200" src="https://media.tenor.com/QTbcrC893SIAAAAi/solaire.gif"  />
 
 
 
