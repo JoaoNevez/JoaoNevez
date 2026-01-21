@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">My name is João Neves and I'm a Software Engineer, from Brasil<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/9fb2a0a4-5406-4d68-b03a-d452514da6b1" />
+<p align="left">My name is João Neves and I'm a Software Engineer, from Brasil<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/9fb2a0a4-5406-4d68-b03a-d452514da6b1" 
 </p>
 
 ###
@@ -22,7 +22,7 @@
 
 ###
 
-<img align="right" height="200" src="[https://media.tenor.com/1YELlhf9ORsAAAAi/waal-boyss-nabilaa.gif](https://media1.tenor.com/m/DimzPZMypFcAAAAd/laptop.gif)"  />
+<img align="right" height="200" src="[https://media1.tenor.com/m/DimzPZMypFcAAAAd/laptop.gif)"  />
 
 
 
