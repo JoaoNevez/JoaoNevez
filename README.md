@@ -18,7 +18,6 @@
  </p>
 
 ###
-<div align="center">
  <div align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=JoaoNevez&show_icons=true&theme=dracula"  height="150"alt="GitHub stats"
