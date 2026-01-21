@@ -22,7 +22,7 @@
 
 ###
 
-<img align="right" height="200" src="[https://media1.tenor.com/m/DimzPZMypFcAAAAd/laptop.gif)"  />
+<img align="right" height="150" src="https://media1.tenor.com/m/DimzPZMypFcAAAAd/laptop.gif"  />
 
 
 
