@@ -11,12 +11,6 @@
 <p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning english<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/8dc57e6d-b685-480d-9271-83784cbdbd4d"  /> and Docker🐳
 <br>🎯 Goals: live in a cold place❄ and meet Mount Fuji⛩️ <br>🎲 Fun fact: Sadomasochistic gaming<img width="20" height="20" alt="PraiseSun" src="https://github.com/user-attachments/assets/f5e848c8-7447-4a95-9e19-447118519de3" />
 
-  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaonevez&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="170" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaonevez&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
 ###
 
 <h2 align="left">I code with</h2>
